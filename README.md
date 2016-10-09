@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Bonus calculation
 
 
@@ -61,3 +62,7 @@ var data = require(process.argv[2]);
 console.log(bonusCalculator(data));  
 
 ````   
+=======
+# BonusCalculation
+first app in NodeJS, calculates bonus for team members
+>>>>>>> 7a2caad9340d1d6ecb57b2ac8ec8ce79d34eddb9
