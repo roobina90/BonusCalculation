@@ -1,0 +1,19 @@
+{
+  "name": "bonus-calculation",
+  "version": "2.0.1",
+  "description": "Webhosting bonus calculation",
+  "main": "bonus-calculation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bonus",
+    "team",
+    "money",
+    "bank",
+    "company",
+    "engagement"
+  ],
+  "author": "roobina90",
+  "license": "MIT"
+}
